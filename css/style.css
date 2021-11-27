@@ -1,0 +1,57 @@
+#loginbody {
+  
+  background-color: rgb(174, 167, 211);
+   
+  background-repeat: no-repeat; 
+  background-size: cover;
+}
+
+table {
+  margin: 10 auto;
+  font-size: x-large;
+  border: 2px solid black;
+  background-color: rgba(76, 56, 148, 0.151);
+  
+  
+}
+
+h1 {
+  text-align: center;
+  color: #006600;
+  font-size: xx-large;
+  font-family: 'Gill Sans', 
+      'Georgia, serif;', ' Calibri', 
+      'Trebuchet MS', 'sans-serif';
+}
+
+th,
+td {
+  font-weight: bold;
+  border: 2px solid black;
+  padding: 15px;
+  text-align: center;
+}
+
+td {
+  font-weight: bold;
+}
+
+tr {
+  text-align:centre;
+  
+}
+
+tr, #tr1 {
+  background-color: #9e9ac4;
+} 
+
+.my-custom-scrollbar {
+  position: relative;
+  height: 1000px;
+  overflow: auto;
+  }
+  .table-wrapper-scroll-y {
+  display: block;
+  }
+
+  
